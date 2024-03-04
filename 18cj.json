@@ -2,9 +2,38 @@
     "spider": "./pg.jar",
     "wallpaper": "https://invalid.gq/IS8nrIwAOp7v1A",
     "sites": [
-         {
+   {
+      "key": "YQKan",
+      "name": "蓝光┃YQ",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    }, 
+  {
+      "key": "快看",
+      "name": "蓝光┃KK",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1
+    },
+    {
+			"key": "NanGua",
+			"name": "蓝光┃NG",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "null$$$1"
+  },      
+  {
       "key": "索尼资源",
-      "name": "SN防尬",
+      "name": "蓝光┃SN",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
