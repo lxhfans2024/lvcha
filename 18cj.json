@@ -112,6 +112,17 @@
              "timeout":60,
              "ext":"./lib/tokenm.json$$$https://d.kstore.space/download/2960/pikpakclass.18.json$$$https://d.kstore.space/download/2960/pikpakclass.18.json.txt.gz"
    },
+   {
+            "key": "色花堂",
+            "name": "绿茶┃SH",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+	    "ext": "./lib/色花堂.json",
+            "jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar"        
+        },
         {
             "key": "csp_xBPQ_超清",
             "name": "🔞香蕉超清",
