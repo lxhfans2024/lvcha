@@ -74,6 +74,14 @@
       "searchable": 1,
       "quickSearch": 1
     },
+    {
+      "key": "Netflav",
+      "name": "绿茶┃NF",
+      "type": 3,
+      "api": "csp_Netflav",
+      "searchable": 1,
+      "changeable": 0 
+    },
    {
 			"key": "Eighteen",
 			"name": "绿茶┃ET",
